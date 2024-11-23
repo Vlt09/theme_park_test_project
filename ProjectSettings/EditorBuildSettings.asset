@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/disney_project.unity
+    guid: a31f1027fac310048b7a8bef909a54e9
   m_configObjects: {}
